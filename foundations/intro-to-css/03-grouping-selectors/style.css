@@ -4,3 +4,12 @@
     text-align: center;
     font-size: 28px;
 }
+
+.first-button {
+    color: white;
+    background-color: black;
+}
+
+.second-button {
+    background-color: yellow;
+}
